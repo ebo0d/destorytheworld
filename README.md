@@ -1,2 +1,2 @@
 # destorytheworld
-I want to build an app the destory's the world!
+I want to build an app that destory's the world!
